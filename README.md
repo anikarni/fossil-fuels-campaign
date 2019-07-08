@@ -1,19 +1,12 @@
-# izens.net Union Template
+# A campaign for climate accountability
 
-This is a template for union hosted on Github. In order to use it to start
-your own union:
+According to the [Carbon Majors
+Report](https://b8f65cb373b1b7b15feb-c70d8ead6ced550b4d987d7c03fcdd1d.ssl.cf3.rackcdn.com/cms/reports/documents/000/002/327/original/Carbon-Majors-Report-2017.pdf),
+25 companies, listed in this policy, have a significant impact on climate
+change. Since 1988, over half the global industrial emmissions have been caused
+by their extraction activities. Through this policy, we encourage you to act in
+however way you can to ask them to be accountable for their role in climate
+change.
 
-1) Fork it
-2) In the GitHub Pages section of the Settings tab, set the Source to `master branch`.
-3) Add a description of the union to `index.html`. Feel free to also change
-   its appearance.
-4) Update the `policy.json` file to reflect your union.
-
-# Notes
-
-We strongly encourage you to have a place for publicly discussing each policy
-change, and for viewing such discussions even after they have been accepted.
-
-For this, you can use issues and pull-requests within Github, or set up a
-mailing list.
-
+Please feel free to contribute and suggest better ways to make this a campaign
+worth joining!

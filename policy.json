@@ -1,4 +1,40 @@
 {
-  "name" : "union-template",
-  "rules": [ ]
+  "name" : "Carbon Majors Campaign",
+  "url": "https://izens.net/",
+  "rules": [
+    {
+      "sites": [
+        "*://www.csec.com/*",
+        "*://www.saudiaramco.com/*",
+        "*://www.gazprom.com/*",
+        "*nioc.ir/*",
+        "*exxonmobil.com/*",
+        "*coalindia.in/*",
+        "*://suek.com/*",
+        "*://www.pemex.com/*",
+        "*://www.shell.com/*",
+        "*://www.cnpc.com.cn/*",
+        "*://www.bp.com/*",
+        "*://www.chevron.com/*",
+        "*://www.pdvsa.com/*",
+        "*://www.adnoc.ae/*",
+        "*://www.peabodyenergy.com/*",
+        "*://sonatrach.com/*",
+        "*://www.kpc.com.kw/*",
+        "*://www.total.com/*",
+        "*://www.bhp.com/*",
+        "*://www.conocophillips.com/*",
+        "*://www.petrobras.com.br/*",
+        "*://www.lukoil.com/*",
+        "*://www.riotinto.com/*",
+        "*://www.nnpcgroup.com/*"
+      ],
+      "actions": [
+        {
+          "action": "warn",
+          "message": "'Over half of global industrial emissions since human-induced climate change was officially recognized can be traced to just 25 corporate and state producing entities.' This website is associated with one of them. Source: <a href='https://b8f65cb373b1b7b15feb-c70d8ead6ced550b4d987d7c03fcdd1d.ssl.cf3.rackcdn.com/cms/reports/documents/000/002/327/original/Carbon-Majors-Report-2017.pdf'>Carbon Majors Report</a>"
+        }
+      ]
+    }
+  ]
 }
